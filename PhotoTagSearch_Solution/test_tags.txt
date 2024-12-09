@@ -1,0 +1,6 @@
+dog - Shows 2 images
+cat - Shows 2 images
+people - Shows 5 images
+school - Shows 3 images
+snake - Shows 1 image
+animal - Shows 7 images

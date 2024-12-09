@@ -1,0 +1,17 @@
+/* Do not change anything in this file */
+.search{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 2rem;
+    padding: .5rem;
+    background-color: lightskyblue;
+    border-radius: 5px;
+    width: fit-content;
+}
+
+img{
+    border-radius: 10px;
+}
